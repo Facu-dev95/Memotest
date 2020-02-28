@@ -55,3 +55,11 @@
 .desactivado{
     background: #bbbbbb;
 }
+
+#footer{
+    background: #d4edda;
+    color: #155724;
+    text-align: center;
+    margin-top: 60px;
+    padding-bottom: 15px;
+}
