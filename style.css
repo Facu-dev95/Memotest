@@ -1,0 +1,57 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    font-family: 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+.ocultarBoton{
+    display: none;
+}
+
+.col-4{
+    text-align: right;
+}
+.btn-primary{
+    margin-top: 8px;
+}
+
+.col{
+    height: 200px;
+    border: 1px solid #aaa;
+}
+
+.color1{
+    background: red;
+
+}
+.color2{
+    background: green;
+
+}
+.color3{
+    background: blue;
+}
+.color4{
+    background: yellow;
+}
+.color5{
+    background: orange;
+}
+.color6{
+    background: brown;
+}
+.color7{
+    background: violet;
+}
+.color8{
+    background: pink;
+}
+.oculto{
+    background: white;
+    cursor: pointer;
+}
+.desactivado{
+    background: #bbbbbb;
+}
